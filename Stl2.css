@@ -1,0 +1,26 @@
+/*повышаем приоритет стиля с помощью !important*/
+
+.slidebar{
+    border-radius: 40px 0 0 0 !important;
+}
+
+.main-info{
+    border-radius: 0 40px 0 0 !important;
+}
+
+.pic{
+	border-radius: 20px !important;
+}
+
+.act-but{
+    border-radius: 30px !important;
+}
+
+.butt{
+    border-radius: 20px !important;
+    padding: 10px;
+}
+
+.shadow{
+    box-shadow: 10px 5px 5px #c9c8c8;
+}
